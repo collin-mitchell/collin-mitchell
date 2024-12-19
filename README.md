@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading, cycling, gaming, traveling, cooking, gardening
 - 🌱 I’m currently learning Español, html, css, sales, business strategy
 - 💞️ I’m looking to collaborate on anything you think that I could help with
-- 📫 How to reach me - Slack
+- 📫 How to reach me - collinmitchell91@gmail.com
 
 <!---
 collin-mitchell/collin-mitchell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
