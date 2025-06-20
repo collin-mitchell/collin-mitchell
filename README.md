@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @collin-mitchell
 - 👀 I’m interested in reading, cycling, gaming, traveling, cooking, gardening
-- 🌱 I’m currently learning Español, html, css, sales, business strategy
+- 🌱 I’m currently learning AI tooling
 - 💞️ I’m looking to collaborate on anything you think that I could help with
 - 📫 How to reach me - collinmitchell91@gmail.com
 
