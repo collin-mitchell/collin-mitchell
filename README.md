@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @collin-mitchell
-- 👀 I’m interested in reading, cycling, gaming, traveling, cooking, gardening
-- 🌱 I’m currently learning AI tooling
-- 💞️ I’m looking to collaborate on anything you think that I could help with
-- 📫 How to reach me - here on GitHub!
+- I’m @collin-mitchell
+- 👀 interested in reading, cycling, gaming, traveling, cooking, gardening
+- 🌱 currently learning AI tooling
+- 💞️ looking to collaborate on anything you think that I could help with
+- 📫 reach me here on GitHub!
 
 <!---
 collin-mitchell/collin-mitchell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
